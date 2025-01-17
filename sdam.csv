@@ -1,0 +1,65 @@
+Label,Mutation,RASA,TAPASS,ArchCandy,PolyPhen2_score,PolyPhen2_class,FoldX,mCSM,ICM
+Positive,Arg123His,0.30,-1,1,0.973,probably damaging,0.36,1.67875,2.690
+Positive,Asp38Asn,0,1,1,1,probably damaging,1.6,0.97625,3.740
+Positive,Arg41Gln,0.32,1,1,0.844,possibly damaging,1,0.68275,3.340
+Positive,His51Asn,0.36,1,0,0,benign,0.58,0.7545,0.760
+Positive,Thr126Asn,0.23,1,1,0.989,probably damaging,0.46,1.2635,0.530
+Positive,Ala39Asp,0.01,0,0,0.988,probably damaging,2.42,2.74425,1.410
+Positive,Val50Met,0,-1,0,0.998,probably damaging,1.9,0.83425,1.510
+Positive,Val142Ile,0.21,0,0,0.999,probably damaging,-0.32,-0.05075,0.410
+Positive,Arg54Thr,0.30,1,0,0.315,benign,01.08,1.697,3.79
+Positive,Ala117Ser,0,1,-1,0.938,possibly damaging,1.47,1.054,0.240
+Positive,His108Arg,0.04,0,0,0.999,probably damaging,1.44,1.48875,-2.590
+Positive,Ile88Leu,0.16,0,0,0,benign,-0.09,0.4405,0.940
+Positive,Leu131Met,0.04,0,0,1,probably damaging,-0.06,0.841,0.760
+Positive,Phe64Leu,0.18,0,0,0.34,benign,1.37,1.31,0.720
+Positive,Ser43Asn,0.29,0,0,0.245,benign,-0.17,0.994,-2.560
+Positive,Val40Ile,0,0,0,0.996,probably damaging,0.1,0.449,0.210
+Positive,Val142Ala,0.21,-1,0,1,probably damaging,2.29,1.32825,0
+Positive,Leu102Pro,0.17,0,0,1,probably damaging,3.71,0.886,3.260
+Positive,Phe84Leu,0.03,0,0,0.995,probably damaging,2.51,0.714,1.960
+Positive,Thr80Ala,0.54,1,1,0.309,benign,0.33,0.9105,0.900
+Positive,Ala101Val,0.91,0,0,0.002,benign,0.57,0.27025,-0.010
+Positive,Ser97Tyr,0.53,0,0,0.592,possibly damaging,-0.42,0.615,-0.2
+Positive,His76Arg,0.55,0,0,0.5,possibly damaging,-0.24,0.232,1.820
+Positive,Asn47Ser,0.67,1,0,0.016,benign,0.9,0.33875,0.530
+Positive,Ile46Val,0.44,1,0,0,benign,0.59,1.17525,-0.090
+Positive,Glu62Asp,0.53,0,0,0,benign,0.2,0.842,0.740
+Positive,Ala101Thr,0.91,0,0,0,benign,0.64,0.7965,-0.040
+Positive,Ala57Asp,0.97,0,0,0.019,benign,0.29,0.6325,-0.090
+Positive,Ala57Thr,0.97,0,0,0.324,benign,0.12,0.44575,0.430
+Positive,Asn144Ser,0.69,0,0,0,benign,0.29,0.12175,0
+Positive,Glu82Asp,0.88,0,0,0.002,benign,0.33,0.261,-0.670
+Negative,Ala101Ser,0.79,0,0,0,benign,-0.06,0.79475,0.075
+Negative,Asp58Glu,0.73,0,0,0.001,benign,-0.29,0.249,1.5625
+Negative,Asp59Glu,0.63,0,0,0,benign,0.09,0.30275,0.6525
+Negative,Asp59Gly,0.63,0,0,0,benign,-1.61,0.524,0.235
+Negative,Pro63Leu,0.72,1,1,0,benign,0.05,0.369,-0.34
+Negative,Asn47Asp,0.53,1,0,0.009,benign,0.25,-0.1835,0.39
+Negative,Asn144Asp,0.66,-1,0,0,benign,-0.42,-0.1085,0
+Negative,Asn144Trh,0.66,0,0,0,benign,0.44,0.0345,0
+Negative,Ser120Ala,0.86,1,0,0,benign,-0.06,0.2365,-0.4775
+Negative,Val85Thr,0.55,0,0,0.204,benign,0.06,1.212,0.59
+Negative,Asp119Glu,0.59,1,0,0.004,benign,-0.1,0.159,0.6925
+Negative,Glu62Ala,0.53,0,0,0.001,benign,0.12,0.7885,-0.07
+Negative,Glu71Lys,0.66,0,0,0.001,benign,0.14,-0.5245,0.3775
+Negative,Glu81Ala,0.50,0,0,0.005,benign,0.14,0.81575,0.1825
+Negative,His51Lys,0.36,1,0,0,benign,-0.7,0.655,0.0575
+Negative,Glu81Asp,0.50,0,0,0,benign,0.18,0.798,0.1175
+Negative,Glu86Lys,0.44,0,0,0.038,benign,-0.1,-0.338,-0.51
+Negative,Glu83Lys,0.53,0,0,0,benign,-0.15,-0.00175,0.855
+Negative,Lys100Gln,0.60,1,1,0.033,benign,-0.22,0.49425,-0.48
+Negative,Ser97Ala,0.52,0,0,0.001,benign,-0.34,0.588,0.0125
+Negative,Ser105Thr,0.71,0,0,0,benign,-0.14,0.34025,-0.0525
+Negative,Ser66Thr,0.54,0,0,0,benign,0.32,0.32275,1.4875
+Negative,Thr60Ser,0.42,0,0,0,benign,-0.1,0.967,0.745
+Negative,Ser70Ala,0.41,0,0,0.001,benign,1.26,0.58075,1.515
+Negative,Ser72Phe,0.47,0,0,0.001,benign,-0.03,1.08125,1.0675
+Negative,Ser72Thr,0.47,0,0,0,benign,0.63,0.41775,0.045
+Negative,Ser105Ala,0.71,0,0,0.001,benign,0.04,0.338,0.54
+Negative,Thr143Ser,0.33,-1,0,0,benign,-0.38,1.12075,0.5225
+Negative,Thr80Ser,0.47,0,0,0.133,benign,-0.38,0.993,0.0975
+Negative,Glu83Gln,0.53,0,0,0,benign,-0.07,0.5515,1.155
+Negative,Glu83Asn,0.53,0,0,0.022,benign,0.72,0.699,1.2225
+Negative,Val85Gly,0.55,0,0,0.615,possibly damaging,-0.58,1.5595,1.215
+Negative,Pro122Leu,0.33,1,1,0,benign,0.38,0.58725,-0.41
